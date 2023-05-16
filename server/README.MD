@@ -6,20 +6,16 @@
 	- [x] ESLint
 	- [x] Prisma + SQLite
 
-- [ ] Front-end
-	- [ ] React + Next.js
-	- [ ] Conceitos
-		- [ ] Componentes
-		- [ ] Propriedades
-		- [ ] Roteamentos
-	- [ ] TailwindCSS
-	- [ ] ESLint + Prettier Tailwind
-
 - [ ] Mobile
 	- [ ] Expo
 	- [ ] NativeWind
 	- [ ] ESLint + Prettier Tailwind
-	
+
+## Getting Started
+```bash
+npm run dev
+```
+
 ## Bibliotecas e comandos utilizados
 ```sh
 npm init -y
@@ -33,10 +29,8 @@ npm i @rocketseat/eslint-config -D
 npm i prisma -D
 npx prisma init --datasource-provider SQLite
 npx prisma migrate dev
-
 # "abre no seu navegador um DB"
 npx prisma studio 
-
 # "Acessar o DB de dentro da aplicação"
 npm i @prisma/client 
 ```
