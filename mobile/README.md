@@ -11,8 +11,8 @@ npm run android
 ```
 
 ## Instalar Android Studio
-https://react-native.rocketseat.dev/android/windows
-https://react-native.rocketseat.dev/virtual-devices/android-emulator#iniciando-o-emulador
+- https://react-native.rocketseat.dev/android/windows
+- https://react-native.rocketseat.dev/virtual-devices/android-emulator#iniciando-o-emulador
 
   ## Bibliotecas utilizadas
 ```sh

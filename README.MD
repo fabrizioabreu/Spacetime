@@ -4,6 +4,12 @@ Aplicação de recordação de memórias, onde o usuário poderá adicionar à u
 
 API RESTful
 
+## Tecnologias 
+- React
+- Next.js
+- TailwindCSS 
+- TypeSCript
+
 Comandos
 ```sh
 # Criar projeto Web/front-end
