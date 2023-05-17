@@ -6,6 +6,9 @@ API RESTful
 
 Comandos
 ```sh
-# Criar projeto Web
+# Criar projeto Web/front-end
 npx create-next-app@latest web --use-npm
+
+# Criar projeto mobile https://docs.expo.dev/
+npx create-expo-app mobile
 ```

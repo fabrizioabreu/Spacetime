@@ -6,11 +6,6 @@
 	- [x] ESLint
 	- [x] Prisma + SQLite
 
-- [ ] Mobile
-	- [ ] Expo
-	- [ ] NativeWind
-	- [ ] ESLint + Prettier Tailwind
-
 ## Getting Started
 ```bash
 npm run dev
