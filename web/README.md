@@ -1,4 +1,4 @@
-## 1 Tecnologias
+## D-1 Tecnologias
 - [x] Front-end
 	- [x] React + Next.js
 	- [x] Conceitos
@@ -8,7 +8,7 @@
 	  - [x] TailwindCSS
 	- [x] ESLint + Prettier Tailwind
 
-## 2 Layout
+## D-2 Layout
 - [x] Front-end
 	- [x] Configuração da fonte
 	- [x] Estrutura visual da Home

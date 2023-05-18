@@ -60,7 +60,7 @@ export default function Home() {
             className="underline hover:text-gray-100"
             href="https://www.linkedin.com/in/fabrizio-abreu-88925587/"
           >
-            Rocketseat
+            Rocketseat - Fabrizio
           </a>
         </div>
       </div>
