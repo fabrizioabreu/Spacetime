@@ -19,6 +19,12 @@
 	- [x] Seção Hero
 	- [x] Copyright
 
+## D-3 Autenticação & Upload 1/2
+- [x] Front-end Web
+	- [x] Fluxo de autenticação
+	- [x] Configuração Github OAuth
+	- [x] Obtendo Github code web
+
 ## Figma
 [Figma](https://www.figma.com/file/cIIfqjsyUedRq0wpZysbR1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=1-4&t=jkxUSDfxuQcFy2OD-0)
 
