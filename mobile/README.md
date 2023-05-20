@@ -12,6 +12,15 @@
   - [x] Seção Hero
 	- [x] Copyright
 
+## D-3 Mobile - Autenticação & Upload
+- [x] Mobile
+	- [x] Instalação do expo-auth-session
+	- [x] Configuração Github OAuth (Expo)
+	- [x] Obtendo Github code mobile
+	- [x] Salvando token no secure store
+	- [x] Navegando usuário
+	- [x] Utilizando Expo Router
+
   ## Getting Started
 ```bash
 npm run start
@@ -39,4 +48,22 @@ npx expo install @expo-google-fonts/roboto @expo-google-fonts/bai-jamjuree expo-
 # https://docs.expo.dev/ui-programming/using-svgs/
 npx expo install react-native-svg
 npm i -D react-native-svg-transformer
+
+# Limpar o cache
+npx expo start --clear
+
+# Autenticação OAuth no Mobile
+# https://docs.expo.dev/versions/latest/sdk/auth-session/
+npx expo install expo-auth-session expo-crypto
+
+npm i axios
+
+# Forma de trabalhar com cache no mobile
+# https://docs.expo.dev/versions/latest/sdk/securestore/
+npx expo install expo-secure-store
+
+# Funcionalidade de rotas igual ao NextJs
+# https://expo.github.io/router/docs/#getting-started
+npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
+
 ```
