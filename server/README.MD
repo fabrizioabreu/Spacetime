@@ -16,6 +16,12 @@
 		- [x] Atualização
 	- [x] Plugin de CORS
 
+## D-3 Back-end - Autenticação & Upload 1/2
+- [x] Back-end
+	- [x] Rota de autenticação
+	- [x] Criação de token JWT
+	- [x] Rotas autenticadas
+
 ## Getting Started
 ```bash
 npm run dev
@@ -50,4 +56,12 @@ npm i zod
 
 # Tecnica de segurança para determinar quais URLs vão poder acessar nossa API
 npm i @fastify/cors
+
+# Para o prisma conseguir ler as variáveis de ambiente.
+npm i dotenv -D
+
+# Fazer requisições Http
+npm i axios
+
+npm i @fastify/jwt
 ```

@@ -25,6 +25,11 @@
 	- [x] Configuração Github OAuth
 	- [x] Obtendo Github code web
 
+## D-3 Autenticação & Upload 2/2
+- [x] Front-end Web
+	- [x] Salvando token nos cookies
+	- [x] Exibindo perfil do usuário
+
 ## Figma
 [Figma](https://www.figma.com/file/cIIfqjsyUedRq0wpZysbR1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=1-4&t=jkxUSDfxuQcFy2OD-0)
 
@@ -48,4 +53,9 @@ npm i prettier-plugin-tailwindcss -D
 
 # Pagote de ícones
 npm i lucide-react
+
+npm i axios
+
+# Extrair informações do token
+npm i jwt-decode
 ```
