@@ -30,6 +30,13 @@
 	- [x] Salvando token nos cookies
 	- [x] Exibindo perfil do usuário
 
+## D-4 Upload & Nova memória 1/2
+- [x] Front-end Web
+	- [x] Definindo layout das rotas
+	- [x] Rota de logout
+	- [x] Página de nova memória
+	- [x] Middleware de autenticação
+
 ## Figma
 [Figma](https://www.figma.com/file/cIIfqjsyUedRq0wpZysbR1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=1-4&t=jkxUSDfxuQcFy2OD-0)
 
@@ -58,4 +65,8 @@ npm i axios
 
 # Extrair informações do token
 npm i jwt-decode
+
+# Colocar Css no checkbox
+# https://github.com/tailwindlabs/tailwindcss-forms
+npm install -D @tailwindcss/forms
 ```
