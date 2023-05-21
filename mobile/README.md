@@ -33,6 +33,12 @@
 	- [x] Preview da imagem
 	- [x] Criando nova memória
 
+## D-5 Criação e listagem 2/2
+- [x] Mobile
+	- [x] Layout da listagem
+	- [x] Botão de logout
+	- [x] Buscando memórias da API
+
   ## Getting Started
 ```bash
 npm run start
@@ -81,4 +87,7 @@ npx expo install expo-router react-native-safe-area-context react-native-screens
 # Facilita trabalhar com imagem e vídeo da galeria
 # https://docs.expo.dev/versions/latest/sdk/imagepicker/
 npx expo install expo-image-picker
+
+# Usado para manipular datas
+npm i daysj
 ```
