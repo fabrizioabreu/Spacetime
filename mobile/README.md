@@ -27,6 +27,12 @@
 	- [x] Personalizando rota inicial do app
 	- [x] Página de nova memória
 
+## D-5 Criação e listagem 1/2
+- [x] Mobile
+	- [x] Selecionando imagem da galeria
+	- [x] Preview da imagem
+	- [x] Criando nova memória
+
   ## Getting Started
 ```bash
 npm run start
@@ -72,4 +78,7 @@ npx expo install expo-secure-store
 # https://expo.github.io/router/docs/#getting-started
 npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
 
+# Facilita trabalhar com imagem e vídeo da galeria
+# https://docs.expo.dev/versions/latest/sdk/imagepicker/
+npx expo install expo-image-picker
 ```
