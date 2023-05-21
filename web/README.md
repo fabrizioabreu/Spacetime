@@ -30,12 +30,17 @@
 	- [x] Salvando token nos cookies
 	- [x] Exibindo perfil do usuário
 
-## D-4 Upload & Nova memória 1/2
+## D-4 Upload & Nova memória 
 - [x] Front-end Web
 	- [x] Definindo layout das rotas
 	- [x] Rota de logout
 	- [x] Página de nova memória
 	- [x] Middleware de autenticação
+
+## D-5 Criação e listagem 1/2
+- [x] Front-end Web
+	- [x] Preview da mídia
+	- [x] Criando nova memória
 
 ## Figma
 [Figma](https://www.figma.com/file/cIIfqjsyUedRq0wpZysbR1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=1-4&t=jkxUSDfxuQcFy2OD-0)
@@ -69,4 +74,7 @@ npm i jwt-decode
 # Colocar Css no checkbox
 # https://github.com/tailwindlabs/tailwindcss-forms
 npm install -D @tailwindcss/forms
+
+# facilita buscar o cookie dentro de document.cookie
+npm i js-cookie
 ```
