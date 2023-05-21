@@ -42,6 +42,11 @@
 	- [x] Preview da mídia
 	- [x] Criando nova memória
 
+## D-5 Criação e listagem 2/2
+- [x] Front-end Web
+	- [x] Layout da listagem
+	- [x] Buscando memórias da API
+
 ## Figma
 [Figma](https://www.figma.com/file/cIIfqjsyUedRq0wpZysbR1/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Ignite-(Community)?type=design&node-id=1-4&t=jkxUSDfxuQcFy2OD-0)
 
@@ -77,4 +82,7 @@ npm install -D @tailwindcss/forms
 
 # facilita buscar o cookie dentro de document.cookie
 npm i js-cookie
+
+# Usado para manipular datas
+npm i dayjs
 ```
