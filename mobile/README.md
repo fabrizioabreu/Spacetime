@@ -12,7 +12,7 @@
   - [x] Seção Hero
 	- [x] Copyright
 
-## D-3 Mobile - Autenticação & Upload
+## D-3 Autenticação & Upload
 - [x] Mobile
 	- [x] Instalação do expo-auth-session
 	- [x] Configuração Github OAuth (Expo)
@@ -20,6 +20,12 @@
 	- [x] Salvando token no secure store
 	- [x] Navegando usuário
 	- [x] Utilizando Expo Router
+
+## D-4 Upload & Nova memória
+- [x] Mobile
+	- [x] Definindo layout das rotas
+	- [x] Personalizando rota inicial do app
+	- [x] Página de nova memória
 
   ## Getting Started
 ```bash
