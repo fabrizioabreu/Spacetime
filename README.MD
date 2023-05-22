@@ -2,7 +2,10 @@
 
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-## Layout web
+## Layout Web
+![Logo do Markdown](https://raw.githubusercontent.com/fabrizioabreu/assets/master/NLW%20Spacetime/vweb.gif)
+
+## Layout Mobile
 ![Logo do Markdown](https://raw.githubusercontent.com/fabrizioabreu/assets/master/NLW%20Spacetime/mobile.gif)
 
 ## Tecnologias 
